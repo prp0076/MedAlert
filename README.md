@@ -1,6 +1,6 @@
 # Medalert Life React App
 
-![Medalert Life Logo](https://medalertlife.com/assets/images/logo.png)
+![Medalert Life Logo](https://medalertlife.com/static/media/logo.92f2a9f54b591ae90b21.png)
 
 This is a Medalert MERN (MongoDB, Express, React, Node.js) App for Ambulance booking.
 
